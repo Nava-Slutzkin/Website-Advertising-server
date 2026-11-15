@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 
-namespace DAL
+namespace DAL.data
 {
     public class AdvertisingContext : DbContext
     {
